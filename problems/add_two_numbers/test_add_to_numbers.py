@@ -6,7 +6,7 @@
 # Link:       https://leetcode.com/problems/add-two-numbers//description/
 
 from lib.list_node import ListNode
-from add_to_numbers import Solution
+from problems.add_two_numbers.solution import Solution
 
 def test_add_two_numbers():
     sol = Solution()

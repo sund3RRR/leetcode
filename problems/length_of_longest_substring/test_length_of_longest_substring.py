@@ -5,7 +5,7 @@
 # Problem:    Longest Substring Without Repeating Characters
 # Link:       https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
-from length_of_longest_substring import Solution
+from problems.length_of_longest_substring.solution import Solution
 
 def test_length_of_longest_substring():
     sol = Solution()

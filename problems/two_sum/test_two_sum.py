@@ -5,7 +5,7 @@
 # Problem:    Two Sum
 # Link:       https://leetcode.com/problems/two-sum/description/
 
-from two_sum import Solution
+from two_sum.solution import Solution
 
 def test_two_sum():
     sol = Solution()

@@ -7,4 +7,4 @@ upgrade:
 	./venv/bin/python3 -m pip install --upgrade pip
 
 test:
-	./venv/bin/pytest .
+	./venv/bin/python3 -m pytest
